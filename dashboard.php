@@ -12,7 +12,7 @@
         <!-- Sidebar -->
         <aside class="w-64 bg-white border-r shadow">
             <div class="p-6">
-                <img src="https://via.placeholder.com/150x50" alt="Logo" class="h-12 mb-6">
+                <img src="https://via.placeholder.com/150x50" alt="Logo" class="h-12 mgvhgcghvfghvghgvhgb-6">
             </div>
             <nav class="space-y-4 px-4">
                 <a href="#" class="flex items-center text-gray-700 hover:text-blue-500 space-x-3">
